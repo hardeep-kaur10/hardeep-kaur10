@@ -8,13 +8,35 @@
 
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeep-kaur10&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep-kaur10" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardeep-kaur10" alt="hardeep-kaur10" /></a> </p>
+
+
+<img  align="center" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding"/>
+
 <p align="center">
+- 🌱 I’m currently learning **backend framework** 
 - 🌱 I’m currently learning **backend framework**  </p>
+
+
+<h2 align=""> ✨ About me </h2>
+I'm currently pursuing my Bachelors of Technology under the domain of computer science and engineering. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
+
+I'm looking for more opportunites to contribute to open source. I have done several projects in front-end development and learning new tech stacks related to web development.
+
+- 🤩 I always try to explore and learn something new.
+- 🌱 I’m currently learning DSA and React
+- 👯 I’m looking to collaborate with other with open source projects
+- 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
+
+
+- 📫 How to reach me: deepkaur200608@gmail.com 📩
+- 😄 Pronouns: She\her
+<br>
+
+![Profile views](https://gpvc.arturio.dev/coding-geek21)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,8 +49,10 @@
 
 
 
+
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=hardeep-kaur10&show_icons=true&theme=radical" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeep-kaur10&hide_progress=true" />
+
+<img  align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeep-kaur10&hide_progress=true" />
 
 
 
@@ -36,8 +60,6 @@
 
 
 <img align="right"  width="550" src="https://stats.quine.sh/Hardeep10/languages-over-time?theme=light" />
-
-
 
 
 
