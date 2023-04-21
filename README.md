@@ -50,7 +50,7 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 
 
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=hardeep-kaur10&show_icons=true&theme=radical" />
+<!-- <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=hardeep-kaur10&show_icons=true&theme=radical" /> -->
 
 <img  align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeep-kaur10&hide_progress=true" />
 
