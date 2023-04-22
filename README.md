@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Hardeep Kaur</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Django+Developer&center=true&width=380&height=45"></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeep-kaur10&label=Profile%20views&color=0e75b6&style=flat" alt="hardeep-kaur10" /> </p>
@@ -13,11 +15,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardeep-kaur10" alt="hardeep-kaur10" /></a> </p>
 
 
-<img  align="center" width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding"/>
+<img align="right" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding"/>
 
 <p align="center">
 - 🌱 I’m currently learning **backend framework** 
-- 🌱 I’m currently learning **backend framework**  </p>
+  </p>
 
 
 <h2 align=""> ✨ About me </h2>
@@ -35,7 +37,7 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 - 😄 Pronouns: She\her
 <br>
 
-![Profile views](https://gpvc.arturio.dev/coding-geek21)
+
 
 
 
