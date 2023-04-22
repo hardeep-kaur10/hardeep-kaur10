@@ -17,9 +17,6 @@
 
 <img align="right" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding"/>
 
-<p align="center">
-- 🌱 I’m currently learning **backend framework** 
-  </p>
 
 
 <h2 align=""> ✨ About me </h2>
@@ -31,7 +28,8 @@ I'm looking for more opportunites to contribute to open source. I have done seve
 - 🌱 I’m currently learning DSA and React
 - 👯 I’m looking to collaborate with other with open source projects
 - 🥅 Goals: Contribute more to Open Source projects in 2021, Learn DSA and competitive programming 
-
+- 🌱 I’m currently learning **backend with python** 
+ 
 
 - 📫 How to reach me: deepkaur200608@gmail.com 📩
 - 😄 Pronouns: She\her
